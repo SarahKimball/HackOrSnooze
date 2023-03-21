@@ -1,0 +1,36 @@
+/* Login and signup forms */
+
+.account-form button {
+    width: 4rem;
+    margin-left: 80px;
+  }
+  
+  #signup-form button {
+    width: 8rem;
+  }
+  
+  .account-forms-container {
+    padding-left: 20px;
+  }
+  
+  
+  /* User profile */
+  
+  .user-profile-box {
+    padding: 10px 20px 20px;
+    font-size: 0.9rem;
+  }
+  
+  .user-profile-box > * {
+    margin: 10px 0;
+  }
+  
+
+  
+  .account-forms-container {
+    padding-left: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(252, 223, 194);
+  }
+  

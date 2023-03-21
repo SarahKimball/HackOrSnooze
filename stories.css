@@ -1,0 +1,46 @@
+Individual stories
+
+  .story-link {
+    font-size: 60px;
+    font-weight: bolder;
+    
+
+  }
+  
+  .story-link:hover {
+    color: rgb(255, 172, 65);
+    text-decoration: none;
+  }
+  
+  .story-author {
+    color: rgb(255, 172, 65);
+    margin-left: 1em;
+    display: block;
+
+  }
+  
+  .story-user {
+    color: rgb(255, 172, 65);
+    display: block;
+  }
+
+  .stories-list > li {
+    color: gray;
+    font-size: 0.8rem;
+    margin: 10px 0;
+  }
+  
+  #favorited-stories,
+  #my-stories {
+    list-style: none;
+    padding-left: 20px;
+  }
+  
+  #stories-loading-msg {
+    font-weight: bold;
+    font-size: 150%;
+    margin: 20px 30px;
+  }
+  
+  
+  
